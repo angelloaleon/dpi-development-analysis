@@ -105,7 +105,7 @@ jupyter notebook notebooks/dpi_lmic_analysis.ipynb
 
 ### Author
 
-**Nelo** | MA International Affairs, Graduate Institute Geneva  
+**Angello Leon** | MA International Affairs, Graduate Institute Geneva  
 Research interests: digital governance, development co-operation, anti-corruption
 
 ---
